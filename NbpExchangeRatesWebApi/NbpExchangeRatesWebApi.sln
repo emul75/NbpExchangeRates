@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbpExchangeRatesWebApi", "NbpExchangeRatesWebApi\NbpExchangeRatesWebApi.csproj", "{A399C6C4-3210-4E48-93F7-EBBDF6875326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbpExchangeRates.Tests", "NbpExchangeRates.Tests\NbpExchangeRates.Tests.csproj", "{8FB65815-531F-422A-842B-A74BBCF28306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A399C6C4-3210-4E48-93F7-EBBDF6875326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A399C6C4-3210-4E48-93F7-EBBDF6875326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A399C6C4-3210-4E48-93F7-EBBDF6875326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A399C6C4-3210-4E48-93F7-EBBDF6875326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB65815-531F-422A-842B-A74BBCF28306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB65815-531F-422A-842B-A74BBCF28306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB65815-531F-422A-842B-A74BBCF28306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB65815-531F-422A-842B-A74BBCF28306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
